@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Thức ăn hạt Cat Eye Hàn Quốc",
+    "loai": "Thức ăn",
+    "picture": "/images/hat_Cat_HQ.jpg",
+    "price": 239000,
+    "cat": "cat"
+
+  },
+  {
+    "id": 2,
+    "name": "Cỏ mèo MASTI LI0244 mèo cưng",
+    "loai": "Thức ăn",
+    "picture": "/images/doChoi_Cat_Dog.jpg",
+    "price": 55000,
+    "cat": "cat"
+
+  },
+  {
+    "id": 3,
+    "name": "Máy Lọc Nước Cho Mèo, Cho Chó",
+    "loai": "Phụ kiện",
+    "picture": "/images/caNgu_Cat.jpg",
+    "price": 799000,
+    "cat": "cat,dog"
+  },
+  {
+    "id": 4,
+    "name": "Thức ăn hạt khô",
+    "loai": "Thức ăn",
+    "picture": "/images/dayKeo_Cho.jpg",
+    "price": 200000,
+    "cat": "cat"
+  },
+  {
+    "id": 5,
+    "name": "Hạt Cho Mèo MRVET Holistic 1kg",
+    "loai": "Thức ăn",
+    "picture": "/images/dayKeo_Cho.jpg",
+    "price": 80000,
+    "cat": "cat"  
+  },
+  {
+    "id": 6,
+    "name": "Thức ăn hạt Cat Eye Hàn Quốc",
+    "loai": "Thức ăn",
+    "picture": "/images/3Vs_Cat_Dog.jpg",
+    "price": 100000,
+    "cat": "cat"
+  },
+  {
+    "id": 7,
+    "name": "Thức ăn vị cá ngừ",
+    "loai": "Thức ăn",
+    "picture": "/images/3Vs_Cat_Dog.jpg",
+    "price": 200000,
+    "cat": "cat"
+  },
+  {
+    "id": 8,
+    "name": "Thức ăn mèo Bite of Wild 1KG",
+    "loai": "Thức ăn",
+    "picture": "/images/caNgu_Cat.jpg",
+    "price": 200000,
+    "cat": "cat"
+  },
+  {
+    "id": 9,
+    "name": "Bộ dây kéo thú cưng",
+    "loai": "Phụ kiện",
+    "picture": "/images/dayKeo_Cho.jpg",
+    "price": 130000,
+    "cat": "cat,dog,eat",
+    "sale": 40
+
+  },
+  {
+    "id": 10,
+    "name": "Quần sinh lý cho chó cưng",
+    "loai": "Phụ kiện",
+    "picture": "/images/doChoi_Cat_Dog.jpg",
+    "price": 30000,
+    "cat": "cat,dog,eat",
+    "sale": 50
+  },
+  {
+    "id": 11,
+    "name": "Gối chó mèo thú cưng",
+    "loai": "Phụ kiện",
+    "picture": "/images/3Vs_Cat_Dog.jpg",
+    "price": 35000,
+    "sale": 40,
+    "cat": "cat,dog,eat"
+
+
+  },
+  {
+    "id": 12,
+    "name": "Hạt cho chó ROYAL CANIN",
+    "loai": "Thức ăn",
+    "picture": "/images/dayKeo_Cho.jpg",
+    "price": 180000,
+    "sale": 40,
+    "cat": "dog"
+  },
+  {
+    "id": 13,
+    "name": " Bộ 3 sản phẩm chăm sóc vệ sinh thú cưng",
+    "loai": "Phụ kiện",
+    "picture": "/images/3Vs_Cat_Dog.jpg",
+    "price": 210000,
+    "cat": "cat,dog,eat",
+    "sale": 50
+
+  },
+  {
+    "id": 14,
+    "name": "Đồ chơi nhai nướu HIPIDOG",
+    "loai": "Đồ chơi",
+    "picture": "/images/doChoi_Cat_Dog.jpg",
+    "price": 130000,
+    "cat": "cat,dog,eat"
+
+
+  },
+  {
+    "id": 14,
+    "name": "Đồ chơi nhai nướu HIPIDOG",
+    "loai": "Đồ chơi",
+    "picture": "/images/doChoi_Cat_Dog.jpg",
+    "price": 130000,
+    "cat": "cat,dog,eat"
+
+
+  }
+]
